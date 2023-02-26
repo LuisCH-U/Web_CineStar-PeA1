@@ -32,5 +32,6 @@ public class PeliculaDAO {
 				
 		return new Pelicula(aRegistro);
 	}
+	
 		
 }

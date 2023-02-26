@@ -29,4 +29,14 @@
     <servlet-name>svlCine</servlet-name>
     <url-pattern>/svlCine</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>svlCines</display-name>
+    <servlet-name>svlCines</servlet-name>
+    <servlet-class>svl.svlCines</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>svlCines</servlet-name>
+    <url-pattern>/svlCines</url-pattern>
+  </servlet-mapping>
 </web-app>
